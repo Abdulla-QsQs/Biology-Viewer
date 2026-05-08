@@ -38,9 +38,40 @@ It displays real-source-backed biological structures including:
 - `lungs`
 - `stomach`
 
+## Usage
+
+List all available structures:
+
+python viewer.py --list
+Open a structure:
+
+python viewer.py --item hemoglobin
+Other examples:
+
+python viewer.py --item glucose
+python viewer.py --item dna_double_helix
+python viewer.py --item liver
+
+## Data Sources
+
+RCSB Protein Data Bank
+PubChem 3D
+BodyParts3D
+
+## NOTES
+
+Some structures are fetched from online sources and cached locally.
+Protein rendering quality depends on source availability and network access.
+Cached files may improve repeat loading speed.
+
 ## Requirements
 
 Install the required Python packages before running:
 
 ```bash
 pip install pygame PyOpenGL biopython numpy
+
+
+
+Install the required Python packages before running:
+
