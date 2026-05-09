@@ -13,8 +13,10 @@ It displays real-source-backed biological structures including:
 
 ## Hemoglobin
 <img width="1016" height="1026" alt="image" src="https://github.com/user-attachments/assets/5bdfbb0a-4248-4e08-88bc-853400bca6b0" />
+
 ## Small intestine
 <img width="1006" height="995" alt="image" src="https://github.com/user-attachments/assets/099e7986-eced-4dad-bdaa-9683173884ea" />
+
 ## Glucose molecule
 <img width="1020" height="887" alt="image" src="https://github.com/user-attachments/assets/c9fc636c-aa34-480f-b4a4-68219c60d0b2" />
 
